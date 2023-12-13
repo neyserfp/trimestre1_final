@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<clientes>
+    <cliente id ="1">
+        <nombre>Jose Lopez</nombre>
+        <edad>20</edad>
+        <email>jose@mail.com</email>
+    </cliente>
+    <cliente id ="2">
+        <nombre>Ricardo Garcia</nombre>
+        <edad>25</edad>
+        <email>ricardo@mail.com</email>
+    </cliente>
+    <cliente id ="3">
+        <nombre>Carlos Maldonado</nombre>
+        <edad>27</edad>
+        <email>carlos@mail.com</email>
+    </cliente>
+    <cliente id ="4">
+        <nombre>Ricardo Garcia</nombre>
+        <edad>25</edad>
+        <email>ricardo@mail.com</email>
+    </cliente>
+    <cliente id ="5">
+        <nombre>Carlos Maldonado</nombre>
+        <edad>27</edad>
+        <email>carlos@mail.com</email>
+    </cliente>
+</clientes>
